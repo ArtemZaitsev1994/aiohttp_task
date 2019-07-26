@@ -1,0 +1,34 @@
+{
+	"news": [{
+		"id": 1,
+		"title": "news_1",
+		"date": "2019-01-01T20:56:35",
+		"body": "The news",
+		"deleted": "false"
+	},{
+		"id": 3,
+		"title": "news_3",
+		"date": "2019-11-01T21:56:35",
+		"body": "The news number 5",
+		"deleted": "false"
+	},{
+		"id": 5,
+		"title": "news_5",
+		"date": "2019-06-01T20:56:35",
+		"body": "The news number 5",
+		"deleted": "false"
+	},{
+		"id": 2,
+		"title": "news_2",
+		"date": "2019-01-01T21:21:35",
+		"body": "The news number 2",
+		"deleted": "false"
+	},{
+		"id": 4,
+		"title": "news_4",
+		"date": "2019-03-24T20:56:35",
+		"body": "The news number 4",
+		"deleted": "false"
+	}],
+	"news_count": 5
+}
